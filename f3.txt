@@ -1,3 +1,4 @@
 non conflict change on f3
 for conflict local
 for a conflict
+new
