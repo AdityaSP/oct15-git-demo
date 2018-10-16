@@ -2,3 +2,4 @@ from local
 conflicting change from remote
 some change
 new change
+change
