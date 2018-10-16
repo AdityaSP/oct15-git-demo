@@ -3,3 +3,4 @@ conflicting change from remote
 some change
 new change
 change
+new
